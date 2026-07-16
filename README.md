@@ -14,7 +14,7 @@ Petit projet CRUD développé avec Laravel.
 1. Cloner le dépôt et se placer dans le dossier :
 
 ```bash
-git clone <url-du-repo>
+git clone https://github.com/winklerstrauss8/Laravel-CRUD
 cd app-crud
 ```
 
